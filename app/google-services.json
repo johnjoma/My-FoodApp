@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1074716295396",
+    "firebase_url": "https://testfood1-e2d19.firebaseio.com",
+    "project_id": "testfood1-e2d19",
+    "storage_bucket": "testfood1-e2d19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074716295396:android:b078a35fe1b5331d25ecf1",
+        "android_client_info": {
+          "package_name": "com.example.testfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074716295396-7h7unemoesv83u0lrhgk30a3i26d2ptp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeLDHCrlL3V2Ai-xvrr4UdHVXYPV7F16A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074716295396-7h7unemoesv83u0lrhgk30a3i26d2ptp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
