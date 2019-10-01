@@ -29,6 +29,13 @@ dependencies {
 
     //Fire base core
     implementation 'com.google.firebase:firebase-analytics:17.2.0'
+
+    // fire base Auth
+    implementation 'com.google.firebase:firebase-auth:19.1.0'
+
+    // firebase Storage
+    implementation 'com.google.firebase:firebase-storage:19.1.0'
+
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test:runner:1.2.0'
     androidTestImplementation 'com.android.support:support-annotations:28.0.0'
